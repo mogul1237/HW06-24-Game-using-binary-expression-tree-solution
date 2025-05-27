@@ -1,6 +1,6 @@
 # HW06-24-Game-using-binary-expression-tree-solution
 
-Download Here: [HW06: 24 Game using binary expression tree solution](HW06: 24 Game using binary expression tree solution)
+Download Here: [HW06: 24 Game using binary expression tree solution](https://jarviscodinghub.com/assignment/hw06-24-game-using-binary-expression-tree-solution-2/)
 
 For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
 
